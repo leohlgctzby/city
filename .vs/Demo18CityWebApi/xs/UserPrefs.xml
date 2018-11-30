@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{24420183-98E2-49ED-950A-0F3084FE61FC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demo18CityWebApi/Migrations/20180904143310_Init.Designer.cs">
+    <Files>
+      <File FileName="Demo18CityWebApi/Model/CityDataStore.cs" Line="53" Column="28" />
+      <File FileName="Demo18CityWebApi/Model/CityDBContext.cs" Line="9" Column="31" />
+      <File FileName="Demo18CityWebApi/Model/ICityDataStore.cs" Line="6" Column="36" />
+      <File FileName="Demo18CityWebApi/Program.cs" Line="14" Column="6" />
+      <File FileName="Demo18CityWebApi/Startup.cs" Line="55" Column="37" />
+      <File FileName="Demo18CityWebApi/Model/CityDto.cs" Line="9" Column="35" />
+      <File FileName="Demo18CityWebApi/Controllers/CityController.cs" Line="47" Column="3" />
+      <File FileName="Demo18CityWebApi/Migrations/20180904143310_Init.cs" Line="1" Column="1" />
+      <File FileName="Demo18CityWebApi/Migrations/20180904143310_Init.Designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/billy/Dropbox/Tutorial/4_JianRen_Aug_18/10 Web API/Demo/Demo18CityWebApi/Controllers/ValuesController.cs" relfile="Demo18CityWebApi/Controllers/ValuesController.cs" line="30" column="36" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Demo18CityWebApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
